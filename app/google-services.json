@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341093740125",
+    "project_id": "lovewords-416fe",
+    "storage_bucket": "lovewords-416fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341093740125:android:389a8583102b5e3360a7b4",
+        "android_client_info": {
+          "package_name": "com.abc.chatloves"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBr4aYKtwrPO9ME8uY-r3UuzjvVc7Rnio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341093740125:android:f5322e53e0913aa460a7b4",
+        "android_client_info": {
+          "package_name": "com.abc.loveschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBr4aYKtwrPO9ME8uY-r3UuzjvVc7Rnio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
